@@ -8,12 +8,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy hiking and exploring new tech gadgets.
 
-<!---
-muthukrishnan2812/muthukrishnan2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries**: Angular, React.js, Node.js,Next.js
 - **Tools**: Git, Visual Studio Code, Canva
 - **Databases**: Firebase, MySQL
+
+
+<!---
+muthukrishnan2812/muthukrishnan2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
