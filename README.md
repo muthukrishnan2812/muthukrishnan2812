@@ -14,7 +14,10 @@
 - **Tools**: Git, Visual Studio Code, Canva
 - **Databases**: Firebase, MySQL
 
-
+## Projects
+- **[Facebookclone-Angular]**: This is an Angular internship project for a Facebook clone. In this project, I used Firebase for the backend database. Users can post, update, comment, delete, and like their own posts. I learned and implemented SSR (Server-Side Rendering) and added CSP (Content Security Policy) to the project.
+- **[Shopping_Website]**: This project uses Angular as the framework. Users can log in and out, with user authentication handled by Firebase. The project retrieves product data from the Fake Store API and uses Bootstrap 5 for design. I implemented SSR (Server-Side Rendering) and CSP (Content Security Policy) features from Angular 17.
+- **[npm package contribute: mk-currency-convertor]**: I created an open-source npm package called mk-currency-convertor. You can install the package in your projects using `npm i mk-currency-convertor`.
 <!---
 muthukrishnan2812/muthukrishnan2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
